@@ -71,6 +71,10 @@ The default settings are intended for the included sample workbook but can be ea
 
 The toolkit is organized into independent modules to simplify maintenance, customization, and future expansion.
 
+## Sample Workbook
+
+The sample workbook is available in the `sample` folder.
+
 ## License
 
 This project is released under the MIT License.
