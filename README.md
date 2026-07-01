@@ -11,6 +11,12 @@ Instead of opening dialog windows, users can select items directly from a movabl
 
 The toolkit is lightweight, easy to customize, and intended to be used as a foundation for Excel VBA input solutions.
 
+## Demo Video
+
+Watch the toolkit in action on YouTube:
+
+https://youtu.be/9SmhCxrf4IA
+
 ## Features
 
 * Movable worksheet input palette
